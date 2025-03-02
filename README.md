@@ -1,12 +1,24 @@
+<h1 align="center">
 ## Hi there 👋, My name is Malvi Vejani
+</h1>
 
+<h3 align="center">
 I am a Full Stack Software developer!
-- 🔭 I’m currently working on ...
+</h3>
+
+<br/>
+
+<div align="center">
+
+- 🔭 I’m currently working on Node.js, TypeScript, Javascript, ReactJs, Java, NestJS, NextJs technologies.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+</div>
+
+
 <!--
 **malvivejani/malvivejani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
