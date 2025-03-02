@@ -8,9 +8,9 @@ I am a Full Stack Software developer! I’m currently working on Node.js, TypeSc
 
 <br/>
 
-<h2 align="center"> ⚒️ Tech Stack</h2>
+<h2> ⚒️ Tech Stack</h2>
 
- 🔭 Frontend: ReactJs, React Native, NextJs, Tailwind CSS*
+ 🔭 Frontend: ReactJs, React Native, NextJs, Tailwind CSS
  
  🌱 Backend: Node.js, Nest.js, Express, Java
  
@@ -20,8 +20,8 @@ I am a Full Stack Software developer! I’m currently working on Node.js, TypeSc
 
 ## 📫 How to reach me
 
-[<img src="assets/envelope.png" height="50px">](mailto:bobbyg603@pm.me)
-[<img src="assets/x.png" height="50px">](https://x.com/bobbyg603)
+[<img src="assets/envelope.png" height="50px">](mailto:malvivejani28@gmail.com)
+[<img src="assets/x.png" height="50px">](https://x.com/malvi_2897?s=21)
 
 <!--
 **malvivejani/malvivejani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
