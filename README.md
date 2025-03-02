@@ -3,18 +3,18 @@ Hi there 👋, My name is Malvi Vejani
 </h1>
 
 <h3 align="center">
-I am a Full Stack Software developer! I’m currently working on Node.js, TypeScript, Javascript, ReactJs, Java, NestJS, NextJs technologies.
-</h3>
-
+I am a Full Stack Software developer! </h3>
 <br/>
 
 <h2> ⚒️ Tech Stack</h2>
 
- 🔭 Frontend: ReactJs, React Native, NextJs, Tailwind CSS
+ 🖥️ Frontend: ReactJs, React Native, NextJs, Tailwind CSS
  
- 🌱 Backend: Node.js, Nest.js, Express, Java
+ 🏗️ Backend: Node.js, Nest.js, Express, Java
  
- 👯 Database: PostgreSQL, SQLite, ORACLE, etc.
+ 💾 Database: PostgreSQL, SQLite, ORACLE, etc.
+
+ 🌱 Other than this I am fond of Docker, Kubernetes, AWS and Git.
  
 </div>
 
